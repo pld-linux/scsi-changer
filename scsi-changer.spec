@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://bytesex.org/misc/%{name}-%{version}.tar.gz
+# Source0-md5:	8b5ea2be6a1fcff0ee7b8cc2776b8d29
 URL:		http://bytesex.org/changer.html
 #BuildRequires:	motif-devel >= 2.0
 # requires kernel with patch supplied in this package
