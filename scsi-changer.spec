@@ -1,5 +1,5 @@
 Summary:	Utilities to control SCSI media changers
-Summary(pl):	Narz阣zie do sterowania zmieniarkami no秐ik體 SCSI
+Summary(pl.UTF-8):   Narz臋dzie do sterowania zmieniarkami no艣nik贸w SCSI
 Name:		scsi-changer
 Version:	0.20
 Release:	1
@@ -15,19 +15,19 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Utilities to control SCSI media changers.
 
-%description -l pl
-Narz阣zie do sterowania zmieniarkami no秐ik體 SCSI.
+%description -l pl.UTF-8
+Narz臋dzie do sterowania zmieniarkami no艣nik贸w SCSI.
 
 %package X11
 Summary:	X11 frontend for SCSI media changers
-Summary(pl):	Interfejs X11 do zmieniarek no秐ik體 SCSI
+Summary(pl.UTF-8):   Interfejs X11 do zmieniarek no艣nik贸w SCSI
 Group:		X11/Applications
 
 %description X11
 X11 frontend for SCSI media changers.
 
-%description X11 -l pl
-Interfejs X11 do zmieniarek no秐ik體 SCSI.
+%description X11 -l pl.UTF-8
+Interfejs X11 do zmieniarek no艣nik贸w SCSI.
 
 %prep
 %setup -q -n changer
