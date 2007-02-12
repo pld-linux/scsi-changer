@@ -1,5 +1,5 @@
 Summary:	Utilities to control SCSI media changers
-Summary(pl.UTF-8):   Narzędzie do sterowania zmieniarkami nośników SCSI
+Summary(pl.UTF-8):	Narzędzie do sterowania zmieniarkami nośników SCSI
 Name:		scsi-changer
 Version:	0.20
 Release:	1
@@ -20,7 +20,7 @@ Narzędzie do sterowania zmieniarkami nośników SCSI.
 
 %package X11
 Summary:	X11 frontend for SCSI media changers
-Summary(pl.UTF-8):   Interfejs X11 do zmieniarek nośników SCSI
+Summary(pl.UTF-8):	Interfejs X11 do zmieniarek nośników SCSI
 Group:		X11/Applications
 
 %description X11
